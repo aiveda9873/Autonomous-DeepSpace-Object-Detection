@@ -1,0 +1,11 @@
+path: ./datasets/deepspace_objects
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names:
+  0: Asteroid
+  1: Space_Debris
+  2: Spacecraft
+  3: Bg_Star
